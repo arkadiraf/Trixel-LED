@@ -4,6 +4,7 @@
 ///////////////////////////////////////////////////////////
 // Genuino Micro bootloader             //
 // high_fuses=0xd8                      //
+// low_fuses=0xff                       //
 // extended_fuses=0xcb                  //
 // caterina/Caterina-Genuino-Micro.hex  //
 //////////////////////////////////////////

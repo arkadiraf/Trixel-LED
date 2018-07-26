@@ -1,0 +1,14 @@
+,Digikey,http://www.digikey.co.il/short/jzmwtr,,,
+Qty,Value,Device,Package,Parts,Description
+2,0.1uF,CAP0805,805,"C1, C3",Capacitor
+1,10K,RESISTOR0805-RES,805,R2,Resistor
+4,10uF,CAP_POL1206,EIA3216,"C7, C8, C9, C13",Capacitor Polarized
+1,16MHz,CRYSTALHC49US,HC49US,Y1,Crystals
+6,1k,RESISTOR0805-RES,805,"R1, R3, R4, R6, R8, R9",Resistor
+2,1uF,CAP0805,805,"C5, C10",Capacitor
+2,22R,RESISTOR0805-RES,805,"R5, R7",Resistor
+2,22pF,CAP0805,805,"C2, C4",Capacitor
+1,ATMEGA32U4TQFP-44,ATMEGA32U4TQFP-44,TQFP44,ATMEGA32U4,Atmel 44-pin 8-bit Microcontroller with 32KBytes of ISP Flash and USB Controller
+1,B3U-1000P-2P-SMD,SMD-BUTTON(2P-4.0X3.0X1.5+0.5MM)SW-TS-017A-2P,SW2-4.0X3.0X2.0,RESET,311020047
+1,GREEN-0805,SMD-LED-CLEAR-GREEN(0805),LED-0805,D1,304090057
+1,USB-MINIB-5PIN,USB-MINIB-5PIN,USB-MINIB,J3,"Mini-USB ""B"" connector with 5th pin broken out."
