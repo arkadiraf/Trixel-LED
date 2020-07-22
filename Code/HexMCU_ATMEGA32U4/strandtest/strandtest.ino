@@ -59,7 +59,7 @@ void setup() {
 
 void loop() {
   static int Status = 0;
-  Serial.println("Hello world!!!!");  // Print "Hello World" to the Serial Monitor
+  Serial.println("Hello world");  // Print "Hello World" to the Serial Monitor
   TXLED0; //TX LED is not tied to a normally controlled pin
   Status = !Status;
   Status == 1 ? TXLED1 : TXLED0;
